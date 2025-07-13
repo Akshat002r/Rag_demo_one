@@ -9,3 +9,4 @@ langchain_chroma
 langchainhub
 unstructured
 langchain_groq
+faiss-cpu
