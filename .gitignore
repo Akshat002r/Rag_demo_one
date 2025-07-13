@@ -1,0 +1,5 @@
+venv/
+.env
+tequila_db/
+__pycache__/
+*.pyc
