@@ -1,12 +1,24 @@
+streamlit
+python-dotenv
+
+# LangChain core and integrations
 langchain
 langchain_community
 langchain_openai
-python-dotenv
-streamlit
 langchain_experimental
-sentence-transformers
-langchain_chroma
 langchainhub
-unstructured
 langchain_groq
+
+# Vector stores
 faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# Document loaders
+unstructured
+
+# Web scraping (UnstructuredURLLoader dependencies)
+requests
+beautifulsoup4
+html2text
